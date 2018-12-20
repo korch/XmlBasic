@@ -1,0 +1,12 @@
+C:\Users\Korch\source\repos\XMLBasic\XMLBasic.Tests\bin\Debug\XMLBasic.Tests.dll
+C:\Users\Korch\source\repos\XMLBasic\XMLBasic.Tests\bin\Debug\XMLBasic.Tests.pdb
+C:\Users\Korch\source\repos\XMLBasic\XMLBasic.Tests\bin\Debug\nunit.framework.dll
+C:\Users\Korch\source\repos\XMLBasic\XMLBasic.Tests\bin\Debug\XMLBasic.dll
+C:\Users\Korch\source\repos\XMLBasic\XMLBasic.Tests\bin\Debug\XMLBasic.pdb
+C:\Users\Korch\source\repos\XMLBasic\XMLBasic.Tests\bin\Debug\nunit.framework.pdb
+C:\Users\Korch\source\repos\XMLBasic\XMLBasic.Tests\bin\Debug\nunit.framework.xml
+C:\Users\Korch\source\repos\XMLBasic\XMLBasic.Tests\obj\Debug\XMLBasic.Tests.csprojAssemblyReference.cache
+C:\Users\Korch\source\repos\XMLBasic\XMLBasic.Tests\obj\Debug\XMLBasic.Tests.csproj.CoreCompileInputs.cache
+C:\Users\Korch\source\repos\XMLBasic\XMLBasic.Tests\obj\Debug\XMLBasic.Tests.csproj.CopyComplete
+C:\Users\Korch\source\repos\XMLBasic\XMLBasic.Tests\obj\Debug\XMLBasic.Tests.dll
+C:\Users\Korch\source\repos\XMLBasic\XMLBasic.Tests\obj\Debug\XMLBasic.Tests.pdb

@@ -1,0 +1,10 @@
+C:\Users\Korch\source\repos\XMLBasic\XMLBasic\bin\Debug\XMLBasic.dll
+C:\Users\Korch\source\repos\XMLBasic\XMLBasic\bin\Debug\XMLBasic.pdb
+C:\Users\Korch\source\repos\XMLBasic\XMLBasic\bin\Debug\nunit.framework.dll
+C:\Users\Korch\source\repos\XMLBasic\XMLBasic\bin\Debug\nunit.framework.pdb
+C:\Users\Korch\source\repos\XMLBasic\XMLBasic\bin\Debug\nunit.framework.xml
+C:\Users\Korch\source\repos\XMLBasic\XMLBasic\obj\Debug\XMLBasic.csprojAssemblyReference.cache
+C:\Users\Korch\source\repos\XMLBasic\XMLBasic\obj\Debug\XMLBasic.csproj.CoreCompileInputs.cache
+C:\Users\Korch\source\repos\XMLBasic\XMLBasic\obj\Debug\XMLBasic.csproj.CopyComplete
+C:\Users\Korch\source\repos\XMLBasic\XMLBasic\obj\Debug\XMLBasic.dll
+C:\Users\Korch\source\repos\XMLBasic\XMLBasic\obj\Debug\XMLBasic.pdb
